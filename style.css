@@ -1,0 +1,277 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caprasimo&family=Exo+2:wght@700&family=Hanken+Grotesk:wght@700&family=Kumbh+Sans:wght@400;700&family=Montserrat:wght@500;700&family=Open+Sans:wght@400;600;700&family=Overpass:wght@400;700&family=Poppins:wght@500;700&family=Red+Hat+Display:wght@500;900&family=Roboto+Mono:wght@600&family=Tilt+Prism&family=Ysabeau+Infant:wght@600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.pirveli > img {
+  width: 125px;
+  height: 125px;
+  flex-shrink: 0;
+  margin-left: 658px;
+}
+.pirveli > h1 {
+  display: flex;
+  width: 730px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #4c545c;
+  text-align: center;
+  font-size: 46px;
+  font-family: "Ysabeau Infant";
+  font-weight: 600;
+  letter-spacing: -0.75px;
+  margin-left: 355px;
+}
+.pirveli > p {
+  display: flex;
+  width: 730px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #9eabb2;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Ysabeau Infant";
+  line-height: 30px;
+  letter-spacing: 0.15px;
+  margin-left: 355px;
+}
+.first {
+  width: 227px;
+  height: 56px;
+  flex-shrink: 0;
+  border-radius: 28px;
+  background: #26bba4;
+  box-shadow: 0px 10px 20px 0px rgba(137, 229, 199, 0.5),
+    0px -3px 0px 0px rgba(0, 0, 0, 0.15) inset;
+  margin-left: 485px;
+  margin-top: 50px;
+}
+.second {
+  width: 227px;
+  height: 56px;
+  flex-shrink: 0;
+  border-radius: 28px;
+  background: #6174ff;
+  box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.1),
+    0px -3px 0px 0px rgba(0, 0, 0, 0.15) inset;
+}
+.meore > h1 {
+  display: flex;
+  width: 730px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #4c545c;
+  text-align: center;
+  font-size: 36px;
+  font-family: "Ysabeau Infant";
+  font-weight: 600;
+  letter-spacing: -0.587px;
+  margin-left: 355px;
+  margin-top: 150px;
+}
+.meore > p {
+  display: flex;
+  width: 730px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #9eabb2;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Ysabeau Infant";
+  line-height: 30px;
+  letter-spacing: 0.135px;
+  margin-left: 355px;
+  margin-top: 10px;
+  margin-bottom: 70px;
+}
+.mesame > h1 {
+  display: flex;
+  width: 350px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #4c545c;
+  font-size: 24px;
+  font-family: "Ysabeau Infant";
+  font-weight: 600;
+  letter-spacing: -0.391px;
+}
+.mesame > p {
+  display: flex;
+  width: 350px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #9eabb2;
+  font-size: 16px;
+  font-family: "Ysabeau Infant";
+  line-height: 30px;
+  letter-spacing: 0.12px;
+}
+.mesame {
+  margin-left: 830px;
+}
+.meotxe {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+}
+
+.meotxe > h1 {
+  display: flex;
+  width: 730px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #4c545c;
+  text-align: center;
+  font-size: 36px;
+  font-family: "Ysabeau Infant";
+  font-weight: 600;
+  letter-spacing: -0.587px;
+  margin-left: 355px;
+}
+.meotxe > p {
+  display: flex;
+  width: 730px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #9eabb2;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Ysabeau Infant";
+  line-height: 30px;
+  letter-spacing: 0.135px;
+  margin-left: 355px;
+  margin-bottom: 111px;
+}
+.meotxe > img {
+  width: 604px;
+  height: 888.776px;
+  flex-shrink: 0;
+  margin-left: 457px;
+}
+.mexute > h1 {
+  display: flex;
+  width: 730px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #4c545c;
+  text-align: center;
+  font-size: 36px;
+  font-family: "Ysabeau Infant";
+  font-weight: 600;
+  letter-spacing: -0.587px;
+  margin-left: 355px;
+  margin-top: 226px;
+}
+.mexute > p {
+  display: flex;
+  width: 730px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #9eabb2;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Ysabeau Infant";
+  line-height: 30px;
+  letter-spacing: 0.135px;
+  margin-left: 355px;
+  margin-bottom: 76px;
+}
+.meeqvse > h2 {
+  display: flex;
+  width: 350px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #4c545c;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Ysabeau Infant";
+  font-weight: 600;
+  letter-spacing: -0.391px;
+}
+.meeqvse > p {
+  display: flex;
+  width: 300px;
+  height: 90px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #9eabb2;
+  text-align: center;
+  font-size: 16px;
+  font-family: "Ysabeau Infant";
+  line-height: 30px;
+  letter-spacing: 0.12px;
+}
+.third {
+  display: flex;
+  flex-direction: column;
+}
+.fourth {
+  display: flex;
+  flex-direction: column;
+}
+.fifth {
+  display: flex;
+  flex-direction: column;
+}
+.meeqvse {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 100px;
+}
+.meshvide {
+  display: flex;
+  flex-direction: row;
+  width: 1440px;
+  height: 380px;
+}
+.meshvide > img {
+  width: 185px;
+  height: 49px;
+  margin: 50px;
+}
+.merve > h1{
+    display: flex;
+width: 730px;
+flex-direction: column;
+flex-shrink: 0;
+color: #4C545C;
+text-align: center;
+font-size: 36px;
+font-family: 'Ysabeau Infant';
+font-weight: 600;
+letter-spacing: -0.587px;
+margin-left: 355px;
+}
+.merve > p{
+    display: flex;
+width: 730px;
+flex-direction: column;
+flex-shrink: 0;
+color: #9EABB2;
+text-align: center;
+font-size: 18px;
+font-family:'Ysabeau Infant' ;
+line-height: 30px;
+letter-spacing: 0.135px;
+margin-left: 355px;
+margin-bottom: 100px;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+}
+.kide{
+    display: flex;
+    flex-direction: column;
+    padding-right: 100px;
+}
+.daje{
+    display: flex;
+    flex-direction: column;
+    padding-right: 100px;
+}
+.vau{
+    padding-right: 900px;
+}
